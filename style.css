@@ -1,0 +1,50 @@
+H1{
+    text-align: center;
+    text-decoration: underline;
+    color: red;
+    
+}
+
+
+h4{
+    text-align: justify;
+    font-size: medium;
+    color:blue;
+    background-color: aqua;
+    font-size: medium;
+}
+#103{
+    font-family: "Times New Roman";
+}
+
+h5{
+     font-size:medium 35 px;
+     color:black;
+      font-family: "Times New Roman";
+
+}
+p{
+font-family: "Times New Roman";
+color:black;
+text-align: left;
+
+
+}
+
+.profile{
+    
+ float: top;
+  width: 200px;
+    height: 200px;
+    
+}
+#106{
+    text-align: center;
+    color: red;
+    background-color: aquamarine;
+    font-size: medium;
+}
+
+
+
+
